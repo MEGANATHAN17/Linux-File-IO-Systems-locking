@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+# Date  9-11-2025
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
@@ -149,8 +151,12 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+<img width="347" height="201" alt="Screenshot 2025-11-09 111902" src="https://github.com/user-attachments/assets/dc9cba9d-783d-4724-95f3-5462ce76370f" />
+
+<img width="1163" height="622" alt="Screenshot 2025-11-09 113308" src="https://github.com/user-attachments/assets/766604bf-0a24-4877-ac5a-85d239c00eff" />
 
 
+<img width="1006" height="488" alt="Screenshot 2025-11-09 113345" src="https://github.com/user-attachments/assets/d5ad6f69-5faa-42ef-a3b4-07d32788c4b5" />
 
 
 # RESULT:
